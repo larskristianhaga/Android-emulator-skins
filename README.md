@@ -1,3 +1,3 @@
-# Android-emulator-skins
+# Android emulator skins
 
-Different Android emulator skins
+Official Android emulator skins made by Google.
